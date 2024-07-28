@@ -117,37 +117,37 @@
 ## 🚀 Projects
 
 ### [EPX Fitness](https://mlook70.github.io/EPX-Fitness/)
-![EPX Fitness](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![EPX Fitness](YOUR_IMAGE_DIRECT_LINK_HERE)
 Welcome to EPX Fitness. Our exclusive club offers the best facilities, personalized training, and excellent service. Join us for an Elite Fitness Experience.
 
 ---
 
 ### [EzTalk](https://ez-talk-topaz.vercel.app/)
-![EzTalk](https://ez-talk-topaz.vercel.app/image.png)
+![EzTalk](YOUR_IMAGE_DIRECT_LINK_HERE)
 EzTalk is a social media platform designed for students and individuals interested in academia. It facilitates connections, knowledge exchange, and opportunities related to internships and academic collaborations.
 
 ---
 
 ### [Abdulmalek Akel's Portfolio](https://abdulmalek-git-main-mlook70s-projects.vercel.app/)
-![Portfolio](https://abdulmalek-git-main-mlook70s-projects.vercel.app/image.png)
+![Portfolio](YOUR_IMAGE_DIRECT_LINK_HERE)
 I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills on my portfolio website.
 
 ---
 
 ### [Sun Light Car Rental ERP](https://sun-light-git-main-mlook70s-projects.vercel.app/calendar)
-![Sun Light Car Rental ERP](https://sun-light-git-main-mlook70s-projects.vercel.app/image.png)
+![Sun Light Car Rental ERP](YOUR_IMAGE_DIRECT_LINK_HERE)
 Sun Light Car Rental ERP is a comprehensive management system for car rentals. It includes features for managing reservations, car details, and customer information with a user-friendly calendar interface.
 
 ---
 
 ### [Vigor Workout App](https://github.com/Mlook70/Vigor-React_Native-.git)
-![Vigor Workout App](https://github.com/Mlook70/Vigor-React_Native-/blob/main/assets/logo.png?raw=true)
+![Vigor Workout App](YOUR_IMAGE_DIRECT_LINK_HERE)
 Vigor is a mobile app designed for workout enthusiasts. It provides workout plans, tracks your progress, and helps you stay motivated on your fitness journey.
 
 ---
 
 ### [EZGET Food App](https://ez-food-sandy.vercel.app/)
-![EZGET Food App](https://ez-food-sandy.vercel.app/image.png)
+![EZGET Food App](YOUR_IMAGE_DIRECT_LINK_HERE)
 EZGET is a food app that helps foodies easily find and share meals from around the world. Join the community to explore and taste various dishes.
 
 

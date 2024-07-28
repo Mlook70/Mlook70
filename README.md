@@ -6,7 +6,7 @@
 
 
 ![Gif Image](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
-<p><a href="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd">via GIPHY</a></p>
+
 
 
 ### <div align="left">I'm Abdulmalek Akel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  

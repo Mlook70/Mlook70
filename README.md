@@ -5,9 +5,7 @@
 </div>  
 
 
-<div>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 350px; height: 200px" />
-</div>  
+<iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="480" height="266" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd">via GIPHY</a></p>
 
 ### <div align="left">I'm Abdulmalek Akel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   

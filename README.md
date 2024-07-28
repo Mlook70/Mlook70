@@ -117,39 +117,38 @@
 ## 🚀 Projects
 
 ### [EPX Fitness](https://mlook70.github.io/EPX-Fitness/)
-![EPX Fitness](https://imgur.com/54HKd0u.png)
+[![EPX Fitness](https://imgur.com/54HKd0u.png)](https://mlook70.github.io/EPX-Fitness/)
 Welcome to EPX Fitness. Our exclusive club offers the best facilities, personalized training, and excellent service. Join us for an Elite Fitness Experience.
 
 ---
 
 ### [EzTalk](https://ez-talk-topaz.vercel.app/)
-![EzTalk](https://imgur.com/J8gALHS.png)
+[![EzTalk](https://imgur.com/J8gALHS.png)](https://ez-talk-topaz.vercel.app/)
 EzTalk is a social media platform designed for students and individuals interested in academia. It facilitates connections, knowledge exchange, and opportunities related to internships and academic collaborations.
 
 ---
 
 ### [Abdulmalek Akel's Portfolio](https://abdulmalek-git-main-mlook70s-projects.vercel.app/)
-![Portfolio](https://imgur.com/zGpIDIq.png)
+[![Portfolio](https://imgur.com/zGpIDIq.png)](https://abdulmalek-git-main-mlook70s-projects.vercel.app/)
 I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills on my portfolio website.
 
 ---
 
 ### [Sun Light Car Rental ERP](https://sun-light-git-main-mlook70s-projects.vercel.app/calendar)
-![Sun Light Car Rental ERP](https://imgur.com/Uv3LfYC.png)
+[![Sun Light Car Rental ERP](https://imgur.com/Uv3LfYC.png)](https://sun-light-git-main-mlook70s-projects.vercel.app/calendar)
 Sun Light Car Rental ERP is a comprehensive management system for car rentals. It includes features for managing reservations, car details, and customer information with a user-friendly calendar interface.
 
 ---
 
 ### [Vigor Workout App](https://github.com/Mlook70/Vigor-React_Native-.git)
-![Vigor Workout App](https://github.com/Mlook70/Vigor-React_Native-/blob/main/assets/logo.png?raw=true)
+[![Vigor Workout App](https://github.com/Mlook70/Vigor-React_Native-/blob/main/assets/logo.png?raw=true)](https://github.com/Mlook70/Vigor-React_Native-.git)
 Vigor is a mobile app designed for workout enthusiasts. It provides workout plans, tracks your progress, and helps you stay motivated on your fitness journey.
 
 ---
 
 ### [EZGET Food App](https://ez-food-sandy.vercel.app/)
-![EZGET Food App](https://imgur.com/MRYR6CF.png)
+[![EZGET Food App](https://imgur.com/MRYR6CF.png)](https://ez-food-sandy.vercel.app/)
 EZGET is a food app that helps foodies easily find and share meals from around the world. Join the community to explore and taste various dishes.
-
 
 ## 📫 Connect with me  
 <div align="center">

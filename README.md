@@ -1,5 +1,8 @@
-### <marquee behavior="alternate" direction="right" scrollamount="10">Abdulmalek Akel</marquee>
-
+### <div align="center">
+  <a href="https://github.com/zaabta">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Abdulmalek+Akel" alt="Typing SVG" />
+  </a>
+</div>  
 <div>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 350px; height: 200px" />
 </div>  

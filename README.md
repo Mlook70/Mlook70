@@ -1,36 +1,24 @@
 ### <div align="left">
-  <a href="https://github.com/zaabta">
+  <a href="https://github.com/Mlook70">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=435&lines=Abdulmalek+Akel" alt="Typing SVG" />
   </a>
 </div>  
 
-
 ![Gif Image](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 
-
-
 ### <div align="left">I'm Abdulmalek Akel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
 
 - 🔭 I’m currently working on my apps
-  
 - 👀 I’m interested in learning new web technology
-
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-
-- 🌱 I’m currently learning Improving my skills on Next.js  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- 🌱 I’m currently improving my skills on Next.js
+- ❓ Ask me about anything related to MERN stack and related technologies
 - ⚡ Fun fact: I play games and go to the GYM very often.
-  
 
 <br/>  
 
 ## 🛠️ My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -60,8 +48,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -85,8 +71,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -102,8 +86,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>  
 
-
-### DataBase  
+### Database  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
@@ -152,23 +135,18 @@ EZGET is a food app that helps foodies easily find and share meals from around t
 
 ## 📫 Connect with me  
 <div align="center">
-<a href="https://www.facebook.com/profile.php?id=100000840170785" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ali_manea17" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/zaabta" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ali-almanea" target="_blank">
+<a href="https://www.linkedin.com/in/abdulmalek-akel" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://github.com/Mlook70" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://abdulmalek-git-main-mlook70s-projects.vercel.app/" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>  
 </div>  
-  
 
 <br/>  
-
 
 ## 📊 Github Stats  
 <div

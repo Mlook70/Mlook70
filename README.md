@@ -4,7 +4,7 @@
   </a>
 </div>  
 
-![Gif Image](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
+![Gif Image](https://pin.it/1HAma9kTb)
 
 ### <div align="left">I'm Abdulmalek Akel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
 

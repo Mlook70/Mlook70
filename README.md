@@ -5,7 +5,7 @@
 </div>  
 
 ![Gif Image 1](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
-![Gif Image 2](https://pin.it/1HAma9kTb)
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1091982240891341538" height="445" width="345" frameborder="0" scrolling="no"></iframe>
 
 ### <div align="left">I'm Abdulmalek Akel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
 

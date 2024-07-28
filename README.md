@@ -147,7 +147,7 @@ Vigor is a mobile app designed for workout enthusiasts. It provides workout plan
 ---
 
 ### [EZGET Food App](https://ez-food-sandy.vercel.app/)
-![EZGET Food App](YOUR_IMAGE_DIRECT_LINK_HERE)
+![EZGET Food App](https://imgur.com/MRYR6CF)
 EZGET is a food app that helps foodies easily find and share meals from around the world. Join the community to explore and taste various dishes.
 
 

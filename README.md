@@ -1,6 +1,6 @@
 ### <div align="left">
   <a href="https://github.com/zaabta">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=435&lines=SE. Abdulmalek+Akel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=435&lines=Abdulmalek+Akel" alt="Typing SVG" />
   </a>
 </div>  
 

@@ -5,9 +5,7 @@
 </div>  
 
 
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;">
-  <iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
+![Gif Image](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 <p><a href="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd">via GIPHY</a></p>
 
 
@@ -127,16 +125,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100000840170785" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100000840170785" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/ali_manea17/" target="_blank">
+<a href="https://instagram.com/ali_manea17" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/zaabta" target="_blank">
+<a href="https://github.com/zaabta" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-almanea/" target="_blank">
+<a href="https://linkedin.com/in/ali-almanea" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -155,7 +153,7 @@
       />
       <div style="margin: auto; margin-top: 10px;">
         <a
-          href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/alirashad2G"
+          href="https://www.buymeacoffee.com/alirashad2G"
           target="_blank"
           style="display: inline-block;"
         >

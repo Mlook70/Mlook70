@@ -113,13 +113,13 @@ EzTalk is a social media platform designed for students and individuals interest
 ---
 
 ### [Main Abdulmalek Akel's Portfolio](https://abdulmalek-git-main-mlook70s-projects.vercel.app/)
-[![Portfolio](https://imgur.com/a/QqH6n73.png)](https://abdulmalek-git-main-mlook70s-projects.vercel.app/)
+[![Portfolio](https://imgur.com/a/QqH6n73.png)](https://abdulmalek-akel-mlookscript-portfolio.vercel.app/)
 I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills on my portfolio website.
 
 ---
 
 ### [Abdulmalek Akel's Portfolio](https://abdulmalek-akel-mlookscript-portfolio.vercel.app/)
-[![Portfolio](https://imgur.com/zGpIDIq.png)](https://abdulmalek-akel-mlookscript-portfolio.vercel.app/)
+[![Portfolio](https://imgur.com/zGpIDIq.png)](https://abdulmalek-git-main-mlook70s-projects.vercel.app/)
 I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills on my portfolio website.
 
 ---

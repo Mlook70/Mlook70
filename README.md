@@ -118,6 +118,12 @@ I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, 
 
 ---
 
+### [Main Abdulmalek Akel's Portfolio](https://mlook70.github.io/IBM_Shopping_Cart_React/)
+[![Portfolio](https://imgur.com/tWXputy.png)](https://mlook70.github.io/IBM_Shopping_Cart_React/)
+I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills on my portfolio website.
+
+---
+
 ### [Abdulmalek Akel's Portfolio](https://abdulmalek-git-main-mlook70s-projects.vercel.app/)
 [![Portfolio](https://imgur.com/zGpIDIq.png)](https://abdulmalek-git-main-mlook70s-projects.vercel.app/)
 I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills on my portfolio website.

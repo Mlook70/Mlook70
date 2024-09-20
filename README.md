@@ -118,12 +118,6 @@ I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, 
 
 ---
 
-### [Main Abdulmalek Akel's Portfolio](https://mlook70.github.io/IBM_Shopping_Cart_React/)
-[![Portfolio](https://imgur.com/tWXputy.png)](https://mlook70.github.io/IBM_Shopping_Cart_React/)
-I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills on my portfolio website.
-
----
-
 ### [Abdulmalek Akel's Portfolio](https://abdulmalek-git-main-mlook70s-projects.vercel.app/)
 [![Portfolio](https://imgur.com/zGpIDIq.png)](https://abdulmalek-git-main-mlook70s-projects.vercel.app/)
 I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills on my portfolio website.
@@ -139,6 +133,12 @@ Sun Light Car Rental ERP is a comprehensive management system for car rentals. I
 ### [Vigor Workout App](https://github.com/Mlook70/Vigor-React_Native-.git)
 [![Vigor Workout App](https://github.com/Mlook70/Vigor-React_Native-/blob/main/assets/logo.png?raw=true)](https://github.com/Mlook70/Vigor-React_Native-.git)
 Vigor is a mobile app designed for workout enthusiasts. It provides workout plans, tracks your progress, and helps you stay motivated on your fitness journey.
+
+---
+
+### [IBM_Shopping_Cart_React_Vite](https://mlook70.github.io/IBM_Shopping_Cart_React/)
+[![Portfolio](https://imgur.com/tWXputy.png)](https://mlook70.github.io/IBM_Shopping_Cart_React/)
+I'm Abdulmalek Akel, a Full Stack Software Engineer with experience in Website, Mobile, and Software development. Check out my projects and skills on my portfolio website.
 
 ---
 

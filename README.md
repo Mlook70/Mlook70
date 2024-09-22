@@ -11,7 +11,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" alt="Gif Image 1">
-  <img src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" alt="Credly Image" style="width: 400px; margin-left: 10px;">
+  <img src="https://images.credly.com/size/680x680/images/5a53000d-fed4-4877-b17d-d769a50eeb4e/image.png" alt="Credly Image" style="width: 200px; margin-left: 10px;">
 </div>
 
 ### <div align="left">I'm Abdulmalek Akel, Professional IBM Full Stack Software Developer👨‍💻 working remotely since 2021 🚀 </div>  

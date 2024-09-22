@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=435&lines=Abdulmalek+Akel" alt="Typing SVG" />
   </a>
 </div>  
-### <div align="left">
+<div align="left">
   <a href="https://github.com/Mlook70">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=435&lines=Professional+IBM+Full+Stack+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=Professional+IBM+Full+Stack+Software+Engineer" alt="Typing SVG" />
   </a>
 </div>  
 

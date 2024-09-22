@@ -6,8 +6,7 @@
 
 ![Gif Image 1](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 
-
-### <div align="left">I'm Abdulmalek Akel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="left">I'm Abdulmalek Akel, Professional IBM Full Stack Software Developer👨‍💻 working remotely since 2021 🚀 </div>  
 
 - 🔭 I’m currently working on my apps
 - 👀 I’m interested in learning new web technology

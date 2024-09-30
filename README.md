@@ -17,7 +17,7 @@
 
 ### <div align="left">I'm Abdulmalek Akel, Professional IBM Full Stack Software Engineer👨‍💻 working remotely since 2021 🚀 </div>  
 
-- 🔭 I’m currently working on my apps
+- 🔭 I’m currently developing an ERP system
 - 👀 I’m interested in learning new web technology
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently improving my skills on Next.js

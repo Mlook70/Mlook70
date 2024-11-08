@@ -6,7 +6,7 @@
  
 <div align="left">
   <a href="https://github.com/Mlook70">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00069f&center=false&vCenter=true&width=690&lines=Professional+IBM+Full+Stack+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=040695&center=false&vCenter=true&width=690&lines=Professional+IBM+Full+Stack+Software+Engineer" alt="Typing SVG" />
   </a>
 </div>  
 
